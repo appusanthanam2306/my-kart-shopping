@@ -1,0 +1,128 @@
+[
+  {
+    "id": "1001",
+    "itemName": "JBL Headset",
+    "imgUrl": "https://m.media-amazon.com/images/I/51O0OFy6izL._AC_UY327_FMwebp_QL65_.jpg",
+    "itemRate": "7.00",
+    "category": ["ELECTRONICS", "MOBILE"]
+  },
+  {
+    "id": "1002",
+    "itemName": "Red Cricket Ball",
+    "imgUrl": "https://m.media-amazon.com/images/I/41ZOCVScb1L._AC_SR360,240_QL70_.jpg",
+    "itemRate": "1.00",
+    "category": ["SPORTS"]
+  },
+  {
+    "id": "1003",
+    "itemName": "Badmiton Kit",
+    "imgUrl": "https://m.media-amazon.com/images/I/71Jq43IodUL._AC_UL480_FMwebp_QL65_.jpg",
+    "itemRate": "3.00",
+    "category": ["SPORTS"]
+  },
+  {
+    "id": "1004",
+    "itemName": "Cricket Kit",
+    "imgUrl": "https://m.media-amazon.com/images/I/61Vm9UQSGqS._AC_UL480_FMwebp_QL65_.jpg",
+    "itemRate": "4.00",
+    "category": ["SPORTS"]
+  },
+  {
+    "id": "1005",
+    "itemName": "RayBan Coolers",
+    "imgUrl": "https://m.media-amazon.com/images/I/31yNBotKeiL._AC_SR360,240_QL70_.jpg",
+    "itemRate": "5.00",
+    "category": ["SPORTS"]
+  },
+  {
+    "id": "1006",
+    "itemName": "Face Mask",
+    "imgUrl": "https://m.media-amazon.com/images/I/71xg7bW65SL._AC_UL480_FMwebp_QL65_.jpg",
+    "itemRate": "0.50",
+    "category": ["GROCERY"]
+  },
+  {
+    "id": "1007",
+    "itemName": "Hair Dryer",
+    "imgUrl": "https://m.media-amazon.com/images/I/71OYlvSYAEL._AC_SR360,240_QL70_.jpg",
+    "itemRate": "1.70",
+    "category": ["ELECTRONICS"]
+  },
+  {
+    "id": "1008",
+    "itemName": "Set Wet Hairgel",
+    "imgUrl": "https://m.media-amazon.com/images/I/71hQcvis4VS._AC_SR360,240_QL70_.jpg",
+    "itemRate": "0.70",
+    "category": ["GROCERY", "SPORTS"]
+  },
+  {
+    "id": "1009",
+    "itemName": "TVS Keyboard",
+    "imgUrl": "https://m.media-amazon.com/images/I/71sACi6N0ZL._AC_SR360,240_QL70_.jpg",
+    "itemRate": "3.00",
+    "category": ["ELECTRONICS"]
+  },
+  {
+    "id": "1010",
+    "itemName": "Logitech Wireless Mouse",
+    "imgUrl": "https://m.media-amazon.com/images/I/61kZivgnleL._AC_SR360,240_QL70_.jpg",
+    "itemRate": "1.50",
+    "category": ["ELECTRONICS"]
+  },
+  {
+    "id": "1011",
+    "itemName": "Walkaro Scandals",
+    "imgUrl": "https://m.media-amazon.com/images/G/31/img21/Fashion/Event/Jupiter_21/Deals/PNG/B00IZ97KQA._AC_SY400_.png",
+    "itemRate": "2.00",
+    "category": ["SPORTS"]
+  },
+  {
+    "id": "1012",
+    "itemName": "Dabur Honey",
+    "imgUrl": "https://m.media-amazon.com/images/I/51ivRBHcH6L._AC_SY400_.jpg",
+    "itemRate": "2.50",
+    "category": ["GROCERY"]
+  },
+  {
+    "id": "1013",
+    "itemName": "Fortune Oil",
+    "imgUrl": "https://m.media-amazon.com/images/I/51TH5xE+2sL._AC_UL480_FMwebp_QL65_.jpg",
+    "itemRate": "2.00",
+    "category": ["GROCERY"]
+  },
+  {
+    "id": "1014",
+    "itemName": "English Bread",
+    "imgUrl": "https://m.media-amazon.com/images/I/71YLQwJhqDL._AC_UL480_FMwebp_QL65_.jpg",
+    "itemRate": "1.00",
+    "category": ["GROCERY"]
+  },
+  {
+    "id": "1015",
+    "itemName": "Iphone 13",
+    "imgUrl": "https://m.media-amazon.com/images/I/71GLMJ7TQiL._AC_UY327_FMwebp_QL65_.jpg",
+    "itemRate": "100.00",
+    "category": ["MOBILE"]
+  },
+  {
+    "id": "1016",
+    "itemName": "Oneplus 9R",
+    "imgUrl": "https://m.media-amazon.com/images/I/61IwksZ-DGL._AC_UY327_FMwebp_QL65_.jpg",
+    "itemRate": "80.00",
+    "category": ["MOBILE"]
+  },
+  {
+    "id": "1017",
+    "itemName": "Samsung S20 FE",
+    "imgUrl": "https://m.media-amazon.com/images/I/81vDZyJQ-4L._AC_UY327_FMwebp_QL65_.jpg",
+    "itemRate": "85.00",
+    "category": ["MOBILE"]
+  },
+  {
+    "id": "1018",
+    "itemName": "Aashirvaad Atta",
+    "imgUrl": "https://m.media-amazon.com/images/I/91o0m2iIpVL._AC_UL480_FMwebp_QL65_.jpg",
+    "itemRate": "3.00",
+    "category": ["GROCERY"]
+  }
+]
