@@ -261,7 +261,7 @@ export default function SearchAppBar() {
                 ) : null}
               </Badge>
             </IconButton>
-            {/* <IconButton
+            <IconButton
               size="large"
               edge="end"
               aria-label="account of current user"
@@ -271,7 +271,7 @@ export default function SearchAppBar() {
               color="inherit"
             >
               <AccountCircle />
-            </IconButton> */}
+            </IconButton>
           </Box>
           <Box sx={{ display: { xs: "flex", md: "none" } }}>
             <IconButton
