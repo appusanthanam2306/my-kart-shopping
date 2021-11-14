@@ -207,7 +207,7 @@ export default function SearchAppBar() {
             component="div"
             sx={{ display: { xs: "none", sm: "block" } }}
           >
-            My-Kart Grocery
+            My-Kart
           </Typography>
           <Search>
             <SearchIconWrapper>
